@@ -37,4 +37,18 @@ https://pruthviraj3196.github.io/Payment-Integration/
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
+# Screenshots of UI
+
+![image](https://github.com/Pruthviraj3196/Payment-Integration/assets/116255942/3eb4f3f1-ff82-4485-8eac-4395984ea5db)
+
+![image](https://github.com/Pruthviraj3196/Payment-Integration/assets/116255942/8f85e91e-6258-4327-ae24-1d17f7a6bc1b)
+
+![image](https://github.com/Pruthviraj3196/Payment-Integration/assets/116255942/49edf4a8-fd89-4f67-86f1-a13c9b7a43e9)
+
+![image](https://github.com/Pruthviraj3196/Payment-Integration/assets/116255942/90713b2a-4094-4b1c-9726-da7963d9feef)
+
+
+
+
+
 
